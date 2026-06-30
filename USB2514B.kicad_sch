@@ -2368,6 +2368,89 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "Mechanical:MountingHole"
+			(pin_names
+				(offset 1.016)
+			)
+			(exclude_from_sim no)
+			(in_bom no)
+			(on_board yes)
+			(property "Reference" "H"
+				(at 0 5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "MountingHole"
+				(at 0 3.175 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Mounting Hole without connection"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "mounting hole"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "MountingHole*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "MountingHole_0_1"
+				(circle
+					(center 0 0)
+					(radius 1.27)
+					(stroke
+						(width 1.27)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "Power_Protection:USBLC6-2P6"
 			(pin_names
 				(hide yes)
@@ -3316,6 +3399,16 @@
 			)
 		)
 		(uuid "4321a4e7-a60c-4c31-8a7f-a5dd44f70eae")
+	)
+	(text "Mounting Holes\n"
+		(exclude_from_sim no)
+		(at 36.83 131.572 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "6ccac32d-2f8a-45ff-bf64-70f5ea74216e")
 	)
 	(text "IPD\n"
 		(exclude_from_sim no)
@@ -4965,7 +5058,7 @@
 	)
 	(wire
 		(pts
-			(xy 91.44 148.59) (xy 91.44 140.97)
+			(xy 91.44 148.59) (xy 91.44 146.05)
 		)
 		(stroke
 			(width 0)
@@ -5162,6 +5255,16 @@
 			(type default)
 		)
 		(uuid "dbe6d81b-01b9-4120-bc33-a0eb637cf92f")
+	)
+	(wire
+		(pts
+			(xy 91.44 138.43) (xy 91.44 133.35)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "dc25e69e-2887-49fb-b5a2-7d63dd286e7f")
 	)
 	(wire
 		(pts
@@ -5819,6 +5922,21 @@
 		)
 		(uuid "f9216437-bcf1-43c7-9b81-0bb436230a85")
 	)
+	(rule_area
+		(polyline
+			(pts
+				(xy 25.4 134.62) (xy 25.4 158.75) (xy 48.26 158.75) (xy 48.26 134.62)
+			)
+			(stroke
+				(width 0)
+				(type dash)
+			)
+			(fill
+				(type none)
+			)
+			(uuid 4bc60935-d8f6-4aac-9397-f721c2db9775)
+		)
+	)
 	(symbol
 		(lib_id "power:GND")
 		(at 95.25 49.53 0)
@@ -6362,6 +6480,70 @@
 			(project "USB2514B"
 				(path "/2167c5dd-8eed-4648-bca6-f773a8c22bdf"
 					(reference "#PWR020")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Mechanical:MountingHole")
+		(at 30.48 148.59 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "0cff932a-13a8-4b09-a699-fd2c0818fa47")
+		(property "Reference" "H3"
+			(at 33.02 147.3199 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MountingHole"
+			(at 33.02 149.8599 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_2.2mm_M2"
+			(at 30.48 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 30.48 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Mounting Hole without connection"
+			(at 30.48 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "USB2514B"
+				(path "/2167c5dd-8eed-4648-bca6-f773a8c22bdf"
+					(reference "H3")
 					(unit 1)
 				)
 			)
@@ -8044,6 +8226,70 @@
 		)
 	)
 	(symbol
+		(lib_id "Mechanical:MountingHole")
+		(at 30.48 138.43 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "548d4bfe-c69d-4394-bf45-c48154aad721")
+		(property "Reference" "H1"
+			(at 33.02 137.1599 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MountingHole"
+			(at 33.02 139.6999 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_2.2mm_M2"
+			(at 30.48 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 30.48 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Mounting Hole without connection"
+			(at 30.48 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project ""
+				(path "/2167c5dd-8eed-4648-bca6-f773a8c22bdf"
+					(reference "H1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 68.58 49.53 0)
 		(unit 1)
@@ -8172,6 +8418,70 @@
 			(project "USB2514B"
 				(path "/2167c5dd-8eed-4648-bca6-f773a8c22bdf"
 					(reference "#PWR027")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Mechanical:MountingHole")
+		(at 30.48 143.51 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "5c2af4bf-aa1d-4468-9d2e-36cc86361aca")
+		(property "Reference" "H2"
+			(at 33.02 142.2399 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MountingHole"
+			(at 33.02 144.7799 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_2.2mm_M2"
+			(at 30.48 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 30.48 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Mounting Hole without connection"
+			(at 30.48 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "USB2514B"
+				(path "/2167c5dd-8eed-4648-bca6-f773a8c22bdf"
+					(reference "H2")
 					(unit 1)
 				)
 			)
@@ -9627,7 +9937,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 91.44 137.16 0)
+		(at 91.44 142.24 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9635,7 +9945,7 @@
 		(dnp no)
 		(uuid "84bc7563-14ad-47b0-ac44-b5135ea88e46")
 		(property "Reference" "R6"
-			(at 85.598 135.636 0)
+			(at 85.598 140.716 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9644,7 +9954,7 @@
 			)
 		)
 		(property "Value" "10k"
-			(at 85.598 138.176 0)
+			(at 85.598 143.256 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9653,7 +9963,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
-			(at 89.662 137.16 90)
+			(at 89.662 142.24 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9662,7 +9972,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.mouser.fr/datasheet/3/72/1/PYU_RT_1_TO_0_01_ROHS_L.pdf"
-			(at 91.44 137.16 0)
+			(at 91.44 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9671,7 +9981,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 91.44 137.16 0)
+			(at 91.44 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9680,7 +9990,7 @@
 			)
 		)
 		(property "Manufacturer" "YAGEO"
-			(at 91.44 137.16 0)
+			(at 91.44 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9689,7 +9999,7 @@
 			)
 		)
 		(property "Manufacturer Part Number" "RT0402WRD0710KL "
-			(at 91.44 137.16 0)
+			(at 91.44 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9698,7 +10008,7 @@
 			)
 		)
 		(property "Distributor Link 1" "https://www.mouser.fr/ProductDetail/YAGEO/RT0402WRD0710KL?qs=sGAEpiMZZMtlubZbdhIBIKm0gsRX2fVkPtJrda2Ff6E%3D"
-			(at 91.44 137.16 0)
+			(at 91.44 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9707,7 +10017,7 @@
 			)
 		)
 		(property "Distributo Link 2" "https://www.digikey.fr/fr/products/detail/yageo/RT0402WRD0710KL/5926796?s=N4IgTCBcDaIAQCUAqAGALCsB1BARFA7AIwoDSAMnCALoC%2BQA"
-			(at 91.44 137.16 0)
+			(at 91.44 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10261,6 +10571,70 @@
 			(project "USB2514B"
 				(path "/2167c5dd-8eed-4648-bca6-f773a8c22bdf"
 					(reference "#PWR073")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Mechanical:MountingHole")
+		(at 30.48 153.67 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "9c067336-5c7c-44bf-baf7-c19376f84f11")
+		(property "Reference" "H4"
+			(at 33.02 152.3999 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MountingHole"
+			(at 33.02 154.9399 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_2.2mm_M2"
+			(at 30.48 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 30.48 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Mounting Hole without connection"
+			(at 30.48 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "USB2514B"
+				(path "/2167c5dd-8eed-4648-bca6-f773a8c22bdf"
+					(reference "H4")
 					(unit 1)
 				)
 			)
