@@ -3483,12 +3483,6 @@
 		(uuid "4a0605cb-a129-48b0-850e-7dde9ae7f901")
 	)
 	(junction
-		(at 247.65 45.72)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "4a6784b2-c25f-4c38-b823-5e946950412d")
-	)
-	(junction
 		(at 163.83 55.88)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3583,6 +3577,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "d4867f61-1cec-4af7-84d1-a7b98dc7d6a3")
+	)
+	(junction
+		(at 247.65 45.72)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "d53b30d4-3fff-4177-8308-d9a943e28edf")
 	)
 	(junction
 		(at 57.15 40.64)
@@ -4338,6 +4338,16 @@
 	)
 	(wire
 		(pts
+			(xy 241.3 45.72) (xy 247.65 45.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "51f01533-c6b3-4896-9cf1-4d93d4637975")
+	)
+	(wire
+		(pts
 			(xy 276.86 111.76) (xy 274.32 111.76)
 		)
 		(stroke
@@ -4815,16 +4825,6 @@
 			(type default)
 		)
 		(uuid "9a532979-25f5-4869-96e5-3d25e0202ffa")
-	)
-	(wire
-		(pts
-			(xy 241.3 45.72) (xy 247.65 45.72)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9d3d217f-4f10-47fb-8628-8e5cc95e0b09")
 	)
 	(wire
 		(pts
@@ -13737,7 +13737,7 @@
 	)
 	(sheet
 		(at 226.06 42.672)
-		(size 14.986 10.668)
+		(size 15.24 10.668)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -13801,7 +13801,7 @@
 			)
 		)
 		(pin "VOUT" output
-			(at 241.046 45.72 0)
+			(at 241.3 45.72 0)
 			(uuid "ffac7182-78e4-4a30-b618-2a7c8c057d05")
 			(effects
 				(font
