@@ -1154,6 +1154,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C126625"
+			(at 193.04 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "5a027f98-5e13-4c50-86ad-3b67c9a6d9bd")
 		)
@@ -1667,6 +1676,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C7200356"
+			(at 166.37 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "6d49d2c8-137b-4486-9e28-c81166950db4")
 		)
@@ -1776,7 +1794,16 @@
 				(hide yes)
 			)
 		)
-		(property "Distributo Link 2" "https://www.digikey.fr/fr/products/detail/yageo/RT0402WRD0710KL/5926796?s=N4IgTCBcDaIAQCUAqAGALCsB1BARFA7AIwoDSAMnCALoC%2BQA"
+		(property "Distributor Link 2" "https://www.digikey.fr/fr/products/detail/yageo/RT0402WRD0710KL/5926796?s=N4IgTCBcDaIAQCUAqAGALCsB1BARFA7AIwoDSAMnCALoC%2BQA"
+			(at 93.98 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C25531"
 			(at 93.98 82.55 0)
 			(effects
 				(font
@@ -1904,6 +1931,15 @@
 			)
 		)
 		(property "Distributor Link 3" "https://www.digikey.fr/fr/products/detail/murata-electronics/GRM31CR61A107MEA8K/16286003?s=N4IgTCBcDaIOICUCyBmAjAYQQNjQQTQAYB2JAUTwA4BpEAXQF8g"
+			(at 179.07 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C3841584"
 			(at 179.07 81.28 0)
 			(effects
 				(font
@@ -2197,6 +2233,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C5634705"
+			(at 157.48 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "91415e8a-c04a-46ee-8c8d-1265bf121e7e")
 		)
@@ -2315,6 +2360,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C711098"
+			(at 104.14 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "e7ee36c6-3f90-4cdf-ad01-93625df35c95")
 		)
@@ -2388,6 +2442,42 @@
 		)
 		(property "Description" "Current limited power switch, single channel, 3.0V to 5.5V, 3A, SOT-23-6"
 			(at 144.78 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Diodes Incorporated "
+			(at 144.78 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "AP22615AWU-7 "
+			(at 144.78 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor Link 1" "https://www.mouser.fr/fr/ProductDetail/Diodes-Incorporated/AP22615AWU-7?qs=lc2O%252BfHJPVZPFwwoXj6nyg%3D%3D"
+			(at 144.78 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C2680357"
+			(at 144.78 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2525,6 +2615,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C126625"
+			(at 204.47 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "bba4887c-2d1b-43af-9cdd-105fd06ba4f1")
 		)
@@ -2642,6 +2741,15 @@
 			)
 		)
 		(property "Distributor Link 3" "https://www.digikey.fr/fr/products/detail/murata-electronics/BLM18PG121SN1D/584248?s=N4IgTCBcDaIEIBkCyBGAHABQOIrCgygHIoAiIAugL5A"
+			(at 198.12 77.47 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C14709"
 			(at 198.12 77.47 90)
 			(effects
 				(font

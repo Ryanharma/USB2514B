@@ -5999,7 +5999,16 @@
 				(hide yes)
 			)
 		)
-		(property "Distributo Link 2" "https://www.digikey.fr/fr/products/detail/yageo/RT0402WRD0710KL/5926796?s=N4IgTCBcDaIAQCUAqAGALCsB1BARFA7AIwoDSAMnCALoC%2BQA"
+		(property "Distributor Link 2" "https://www.digikey.fr/fr/products/detail/yageo/RT0402WRD0710KL/5926796?s=N4IgTCBcDaIAQCUAqAGALCsB1BARFA7AIwoDSAMnCALoC%2BQA"
+			(at 120.65 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C25531"
 			(at 120.65 123.19 0)
 			(effects
 				(font
@@ -6204,6 +6213,42 @@
 			)
 		)
 		(property "Description" "USB 2.0 Hi-Speed Hub Controller"
+			(at 166.37 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Microchip Technology"
+			(at 166.37 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "USB2514BI-AEZG-TR "
+			(at 166.37 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor Link 1" "https://www.mouser.fr/fr/ProductDetail/Microchip-Technology/USB2514BI-AEZG-TR?qs=pA5MXup5wxHOXRSFs9t6VQ%3D%3D"
+			(at 166.37 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C58940"
 			(at 166.37 96.52 0)
 			(effects
 				(font
@@ -6446,6 +6491,15 @@
 			)
 		)
 		(property "Description" "Mounting Hole without connection"
+			(at 30.48 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" ""
 			(at 30.48 148.59 0)
 			(effects
 				(font
@@ -7112,6 +7166,42 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer" "Same Sky"
+			(at 31.75 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "UJ20-C-H-C-4-SMT-TR "
+			(at 31.75 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor Link 1" "https://www.mouser.fr/fr/ProductDetail/Same-Sky/UJ20-C-H-C-4-SMT-TR?qs=i8QVZAFTkqTaeFkL507bBA%3D%3D"
+			(at 31.75 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C36601498"
+			(at 31.75 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "A9"
 			(uuid "c9b1726f-9134-4120-bddd-4a14ef2fe992")
 		)
@@ -7246,6 +7336,15 @@
 			)
 		)
 		(property "Distributor Link 1" "https://www.mouser.fr/ProductDetail/YAGEO/AR0402FR-0712KL?qs=sGAEpiMZZMtlubZbdhIBILHmG0naAamhXxmbSxyBacQ%3D"
+			(at 62.23 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C144798"
 			(at 62.23 105.41 0)
 			(effects
 				(font
@@ -7418,7 +7517,16 @@
 				(hide yes)
 			)
 		)
-		(property "Distributo Link 2" "https://www.digikey.fr/fr/products/detail/yageo/RT0402WRD0710KL/5926796?s=N4IgTCBcDaIAQCUAqAGALCsB1BARFA7AIwoDSAMnCALoC%2BQA"
+		(property "Distributor Link 2" "https://www.digikey.fr/fr/products/detail/yageo/RT0402WRD0710KL/5926796?s=N4IgTCBcDaIAQCUAqAGALCsB1BARFA7AIwoDSAMnCALoC%2BQA"
+			(at 214.63 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C25531"
 			(at 214.63 127 0)
 			(effects
 				(font
@@ -7589,7 +7697,16 @@
 				(hide yes)
 			)
 		)
-		(property "Distributo Link 2" "https://www.digikey.fr/fr/products/detail/yageo/RT0402WRD0710KL/5926796?s=N4IgTCBcDaIAQCUAqAGALCsB1BARFA7AIwoDSAMnCALoC%2BQA"
+		(property "Distributor Link 2" "https://www.digikey.fr/fr/products/detail/yageo/RT0402WRD0710KL/5926796?s=N4IgTCBcDaIAQCUAqAGALCsB1BARFA7AIwoDSAMnCALoC%2BQA"
+			(at 214.63 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C25531"
 			(at 214.63 100.33 0)
 			(effects
 				(font
@@ -7827,7 +7944,16 @@
 				(hide yes)
 			)
 		)
-		(property "Distributo Link 2" "https://www.digikey.fr/fr/products/detail/yageo/RT0402WRD0710KL/5926796?s=N4IgTCBcDaIAQCUAqAGALCsB1BARFA7AIwoDSAMnCALoC%2BQA"
+		(property "Distributor Link 2" "https://www.digikey.fr/fr/products/detail/yageo/RT0402WRD0710KL/5926796?s=N4IgTCBcDaIAQCUAqAGALCsB1BARFA7AIwoDSAMnCALoC%2BQA"
+			(at 101.6 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C25531"
 			(at 101.6 80.01 0)
 			(effects
 				(font
@@ -7943,6 +8069,15 @@
 			)
 		)
 		(property "Distributor Link 3" "https://fr.farnell.com/murata/gcm1555c1h200fa16d/cond-mlcc-20pf-c0g-np0-50v-0402/dp/4792018"
+			(at 72.39 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C1554"
 			(at 72.39 113.03 0)
 			(effects
 				(font
@@ -8115,7 +8250,16 @@
 				(hide yes)
 			)
 		)
-		(property "Distributo Link 2" "https://www.digikey.fr/fr/products/detail/yageo/RT0402WRD0710KL/5926796?s=N4IgTCBcDaIAQCUAqAGALCsB1BARFA7AIwoDSAMnCALoC%2BQA"
+		(property "Distributor Link 2" "https://www.digikey.fr/fr/products/detail/yageo/RT0402WRD0710KL/5926796?s=N4IgTCBcDaIAQCUAqAGALCsB1BARFA7AIwoDSAMnCALoC%2BQA"
+			(at 214.63 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C25531"
 			(at 214.63 87.63 0)
 			(effects
 				(font
@@ -8186,6 +8330,15 @@
 			)
 		)
 		(property "Description" "Mounting Hole without connection"
+			(at 30.48 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" ""
 			(at 30.48 138.43 0)
 			(effects
 				(font
@@ -8392,6 +8545,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" ""
+			(at 30.48 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(instances
 			(project "USB2514B"
 				(path "/2167c5dd-8eed-4648-bca6-f773a8c22bdf"
@@ -8438,7 +8600,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://cdn.amphenol-cs.com/media/wysiwyg/files/drawing/c10502029.pdf"
 			(at 273.05 123.19 0)
 			(effects
 				(font
@@ -8448,6 +8610,42 @@
 			)
 		)
 		(property "Description" "USB Type A connector"
+			(at 276.86 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Amphenol Commercial Products "
+			(at 276.86 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "10502029K901A "
+			(at 276.86 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor Link 1" "https://www.mouser.fr/fr/ProductDetail/Amphenol-Commercial-Products/10502029K901A?qs=HFfMDpzxxd0wQPssQ5GsIg%3D%3D"
+			(at 276.86 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C2345"
 			(at 276.86 124.46 0)
 			(effects
 				(font
@@ -8650,7 +8848,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://cdn.amphenol-cs.com/media/wysiwyg/files/drawing/c10502029.pdf"
 			(at 273.05 41.91 0)
 			(effects
 				(font
@@ -8660,6 +8858,42 @@
 			)
 		)
 		(property "Description" "USB Type A connector"
+			(at 276.86 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Amphenol Commercial Products "
+			(at 276.86 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "10502029K901A "
+			(at 276.86 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor Link 1" "https://www.mouser.fr/fr/ProductDetail/Amphenol-Commercial-Products/10502029K901A?qs=HFfMDpzxxd0wQPssQ5GsIg%3D%3D"
+			(at 276.86 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C2345"
 			(at 276.86 43.18 0)
 			(effects
 				(font
@@ -8907,7 +9141,16 @@
 				(hide yes)
 			)
 		)
-		(property "Distributo Link 2" "https://www.digikey.fr/fr/products/detail/yageo/RT0402WRD0710KL/5926796?s=N4IgTCBcDaIAQCUAqAGALCsB1BARFA7AIwoDSAMnCALoC%2BQA"
+		(property "Distributor Link 2" "https://www.digikey.fr/fr/products/detail/yageo/RT0402WRD0710KL/5926796?s=N4IgTCBcDaIAQCUAqAGALCsB1BARFA7AIwoDSAMnCALoC%2BQA"
+			(at 114.3 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C25741"
 			(at 114.3 78.74 0)
 			(effects
 				(font
@@ -9007,7 +9250,7 @@
 				(hide yes)
 			)
 		)
-		(property "Distributor Link" "https://www.mouser.fr/ProductDetail/STMicroelectronics/USBLC6-2P6?qs=6ARB0lp6jlViGcbUSvj1Mw%3D%3D"
+		(property "LCSC Part #" "C15999"
 			(at 63.5 69.85 0)
 			(effects
 				(font
@@ -9186,7 +9429,16 @@
 				(hide yes)
 			)
 		)
-		(property "Distributor Link" "https://www.mouser.fr/ProductDetail/STMicroelectronics/USBLC6-2P6?qs=6ARB0lp6jlViGcbUSvj1Mw%3D%3D"
+		(property "Distributor Link 1" "https://www.mouser.fr/ProductDetail/STMicroelectronics/USBLC6-2P6?qs=6ARB0lp6jlViGcbUSvj1Mw%3D%3D"
+			(at 256.54 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C15999"
 			(at 256.54 114.3 0)
 			(effects
 				(font
@@ -9371,7 +9623,16 @@
 				(hide yes)
 			)
 		)
-		(property "Distributo Link 2" "https://www.digikey.fr/fr/products/detail/yageo/RT0402WRD0710KL/5926796?s=N4IgTCBcDaIAQCUAqAGALCsB1BARFA7AIwoDSAMnCALoC%2BQA"
+		(property "Distributor Link 2" "https://www.digikey.fr/fr/products/detail/yageo/RT0402WRD0710KL/5926796?s=N4IgTCBcDaIAQCUAqAGALCsB1BARFA7AIwoDSAMnCALoC%2BQA"
+			(at 214.63 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C25531"
 			(at 214.63 73.66 0)
 			(effects
 				(font
@@ -9478,6 +9739,15 @@
 			)
 		)
 		(property "Distributor Link 2" "https://www.digikey.fr/fr/products/detail/murata-electronics/GXT155R61C474KE01D/26265287?s=N4IgTCBcDaIOIA0AqBGArGgSgNhQYQBYB2AgaQFEAGFAEQAIQBdAXyA"
+			(at 68.58 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C126625"
 			(at 68.58 45.72 0)
 			(effects
 				(font
@@ -9640,7 +9910,16 @@
 				(hide yes)
 			)
 		)
-		(property "Distribution Link" "https://www.mouser.fr/ProductDetail/KYOCERA-AVX/12065C104J4Z2A?qs=sGAEpiMZZMsh%252B1woXyUXj%2FQOiMy2nwZA1uFt62aVEC4%3D"
+		(property "Distributor Link 1" "https://www.mouser.fr/ProductDetail/KYOCERA-AVX/12065C104J4Z2A?qs=sGAEpiMZZMsh%252B1woXyUXj%2FQOiMy2nwZA1uFt62aVEC4%3D"
+			(at 101.6 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C6648471"
 			(at 101.6 113.03 0)
 			(effects
 				(font
@@ -9746,7 +10025,7 @@
 				(hide yes)
 			)
 		)
-		(property "Distrbutor Link 2" "https://www.digikey.fr/fr/products/detail/murata-electronics/GXT155R61C105KE01D/26265639?s=N4IgTCBcDaIAQHEAaAVAjAVgwJQGxoGE0AGDAaQFFi0AREAXQF8g"
+		(property "LCSC Part #" "C363938"
 			(at 189.23 43.18 0)
 			(effects
 				(font
@@ -9807,7 +10086,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://cdn.amphenol-cs.com/media/wysiwyg/files/drawing/c10502029.pdf"
 			(at 273.05 95.25 0)
 			(effects
 				(font
@@ -9817,6 +10096,42 @@
 			)
 		)
 		(property "Description" "USB Type A connector"
+			(at 276.86 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Amphenol Commercial Products "
+			(at 276.86 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "10502029K901A "
+			(at 276.86 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor Link 1" "https://www.mouser.fr/fr/ProductDetail/Amphenol-Commercial-Products/10502029K901A?qs=HFfMDpzxxd0wQPssQ5GsIg%3D%3D"
+			(at 276.86 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C2345"
 			(at 276.86 96.52 0)
 			(effects
 				(font
@@ -9930,7 +10245,16 @@
 				(hide yes)
 			)
 		)
-		(property "Distributo Link 2" "https://www.digikey.fr/fr/products/detail/yageo/RT0402WRD0710KL/5926796?s=N4IgTCBcDaIAQCUAqAGALCsB1BARFA7AIwoDSAMnCALoC%2BQA"
+		(property "Distributor Link 2" "https://www.digikey.fr/fr/products/detail/yageo/RT0402WRD0710KL/5926796?s=N4IgTCBcDaIAQCUAqAGALCsB1BARFA7AIwoDSAMnCALoC%2BQA"
+			(at 91.44 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C25531"
 			(at 91.44 142.24 0)
 			(effects
 				(font
@@ -10035,7 +10359,16 @@
 				(hide yes)
 			)
 		)
-		(property "Distributo Link 2" "https://www.digikey.fr/fr/products/detail/yageo/RT0402WRD0710KL/5926796?s=N4IgTCBcDaIAQCUAqAGALCsB1BARFA7AIwoDSAMnCALoC%2BQA"
+		(property "Distributor Link 2" "https://www.digikey.fr/fr/products/detail/yageo/RT0402WRD0710KL/5926796?s=N4IgTCBcDaIAQCUAqAGALCsB1BARFA7AIwoDSAMnCALoC%2BQA"
+			(at 128.27 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C25531"
 			(at 128.27 123.19 0)
 			(effects
 				(font
@@ -10199,7 +10532,16 @@
 				(hide yes)
 			)
 		)
-		(property "Distribution Link" "https://www.mouser.fr/ProductDetail/KYOCERA-AVX/12065C104J4Z2A?qs=sGAEpiMZZMsh%252B1woXyUXj%2FQOiMy2nwZA1uFt62aVEC4%3D"
+		(property "Distributor Link 1" "https://www.mouser.fr/ProductDetail/KYOCERA-AVX/12065C104J4Z2A?qs=sGAEpiMZZMsh%252B1woXyUXj%2FQOiMy2nwZA1uFt62aVEC4%3D"
+			(at 113.03 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C6648471"
 			(at 113.03 113.03 0)
 			(effects
 				(font
@@ -10545,6 +10887,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" ""
+			(at 30.48 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(instances
 			(project "USB2514B"
 				(path "/2167c5dd-8eed-4648-bca6-f773a8c22bdf"
@@ -10636,7 +10987,7 @@
 				(hide yes)
 			)
 		)
-		(property "Distrbutor Link 2" "https://www.digikey.fr/fr/products/detail/murata-electronics/GXT155R61C105KE01D/26265639?s=N4IgTCBcDaIAQHEAaAVAjAVgwJQGxoGE0AGDAaQFFi0AREAXQF8g"
+		(property "LCSC Part #" "C363938"
 			(at 80.01 45.72 0)
 			(effects
 				(font
@@ -10803,7 +11154,16 @@
 				(hide yes)
 			)
 		)
-		(property "Distributor Link" "https://www.mouser.fr/ProductDetail/STMicroelectronics/USBLC6-2P6?qs=6ARB0lp6jlViGcbUSvj1Mw%3D%3D"
+		(property "Distributor Link 1" "https://www.mouser.fr/ProductDetail/STMicroelectronics/USBLC6-2P6?qs=6ARB0lp6jlViGcbUSvj1Mw%3D%3D"
+			(at 255.27 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C15999"
 			(at 255.27 33.02 0)
 			(effects
 				(font
@@ -10922,6 +11282,15 @@
 			)
 		)
 		(property "Distributor Link 2" "https://www.digikey.fr/fr/products/detail/murata-electronics/GXT155R61C474KE01D/26265287?s=N4IgTCBcDaIOIA0AqBGArGgSgNhQYQBYB2AgaQFEAGFAEQAIQBdAXyA"
+			(at 57.15 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C126625"
 			(at 57.15 45.72 0)
 			(effects
 				(font
@@ -11244,6 +11613,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C1554"
+			(at 90.17 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "e2bc5316-d068-4346-b87e-a45555423699")
 		)
@@ -11489,6 +11867,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C14709"
+			(at 62.23 40.64 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "b0fb7ae5-47ce-42de-b502-71273d300bc9")
 		)
@@ -11586,7 +11973,7 @@
 				(hide yes)
 			)
 		)
-		(property "Distrbutor Link 2" "https://www.digikey.fr/fr/products/detail/murata-electronics/GXT155R61C105KE01D/26265639?s=N4IgTCBcDaIAQHEAaAVAjAVgwJQGxoGE0AGDAaQFFi0AREAXQF8g"
+		(property "LCSC Part #" "C363938"
 			(at 154.94 43.18 0)
 			(effects
 				(font
@@ -11713,7 +12100,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://cdn.amphenol-cs.com/media/wysiwyg/files/drawing/c10502029.pdf"
 			(at 273.05 66.04 0)
 			(effects
 				(font
@@ -11723,6 +12110,42 @@
 			)
 		)
 		(property "Description" "USB Type A connector"
+			(at 276.86 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Amphenol Commercial Products "
+			(at 276.86 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "10502029K901A "
+			(at 276.86 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor Link 1" "https://www.mouser.fr/fr/ProductDetail/Amphenol-Commercial-Products/10502029K901A?qs=HFfMDpzxxd0wQPssQ5GsIg%3D%3D"
+			(at 276.86 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C2345"
 			(at 276.86 67.31 0)
 			(effects
 				(font
@@ -11831,7 +12254,16 @@
 				(hide yes)
 			)
 		)
-		(property "Distributor Link" "https://www.mouser.fr/ProductDetail/STMicroelectronics/USBLC6-2P6?qs=6ARB0lp6jlViGcbUSvj1Mw%3D%3D"
+		(property "Distributor Link 1" "https://www.mouser.fr/ProductDetail/STMicroelectronics/USBLC6-2P6?qs=6ARB0lp6jlViGcbUSvj1Mw%3D%3D"
+			(at 256.54 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C15999"
 			(at 256.54 59.69 0)
 			(effects
 				(font
@@ -12213,7 +12645,7 @@
 				(hide yes)
 			)
 		)
-		(property "Distrbutor Link 2" "https://www.digikey.fr/fr/products/detail/murata-electronics/GXT155R61C105KE01D/26265639?s=N4IgTCBcDaIAQHEAaAVAjAVgwJQGxoGE0AGDAaQFFi0AREAXQF8g"
+		(property "LCSC Part #" "C363938"
 			(at 109.22 45.72 0)
 			(effects
 				(font
@@ -12319,7 +12751,7 @@
 				(hide yes)
 			)
 		)
-		(property "Distrbutor Link 2" "https://www.digikey.fr/fr/products/detail/murata-electronics/GXT155R61C105KE01D/26265639?s=N4IgTCBcDaIAQHEAaAVAjAVgwJQGxoGE0AGDAaQFFi0AREAXQF8g"
+		(property "LCSC Part #" "C363938"
 			(at 132.08 43.18 0)
 			(effects
 				(font
@@ -12558,7 +12990,7 @@
 				(hide yes)
 			)
 		)
-		(property "Distrbutor Link 2" "https://www.digikey.fr/fr/products/detail/murata-electronics/GXT155R61C105KE01D/26265639?s=N4IgTCBcDaIAQHEAaAVAjAVgwJQGxoGE0AGDAaQFFi0AREAXQF8g"
+		(property "LCSC Part #" "C363938"
 			(at 144.78 43.18 0)
 			(effects
 				(font
@@ -12682,6 +13114,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C25741"
+			(at 114.3 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "caf546d4-756c-4d32-b935-c6e743c27c06")
 		)
@@ -12795,6 +13236,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C6487089"
+			(at 81.28 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "8e55064a-fd7b-4a6e-835f-3ca25f78b62a")
 		)
@@ -12891,7 +13341,16 @@
 				(hide yes)
 			)
 		)
-		(property "Distributo Link 2" "https://www.digikey.fr/fr/products/detail/yageo/RT0402WRD0710KL/5926796?s=N4IgTCBcDaIAQCUAqAGALCsB1BARFA7AIwoDSAMnCALoC%2BQA"
+		(property "Distributor Link 2" "https://www.digikey.fr/fr/products/detail/yageo/RT0402WRD0710KL/5926796?s=N4IgTCBcDaIAQCUAqAGALCsB1BARFA7AIwoDSAMnCALoC%2BQA"
+			(at 135.89 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C25531"
 			(at 135.89 125.73 0)
 			(effects
 				(font
@@ -13395,7 +13854,7 @@
 				(hide yes)
 			)
 		)
-		(property "Distrbutor Link 2" "https://www.digikey.fr/fr/products/detail/murata-electronics/GXT155R61C105KE01D/26265639?s=N4IgTCBcDaIAQHEAaAVAjAVgwJQGxoGE0AGDAaQFFi0AREAXQF8g"
+		(property "LCSC Part #" "C363938"
 			(at 121.92 43.18 0)
 			(effects
 				(font
@@ -13501,7 +13960,7 @@
 				(hide yes)
 			)
 		)
-		(property "Distrbutor Link 2" "https://www.digikey.fr/fr/products/detail/murata-electronics/GXT155R61C105KE01D/26265639?s=N4IgTCBcDaIAQHEAaAVAjAVgwJQGxoGE0AGDAaQFFi0AREAXQF8g"
+		(property "LCSC Part #" "C363938"
 			(at 179.07 43.18 0)
 			(effects
 				(font
@@ -13601,7 +14060,16 @@
 				(hide yes)
 			)
 		)
-		(property "Distributor Link" "https://www.mouser.fr/ProductDetail/STMicroelectronics/USBLC6-2P6?qs=6ARB0lp6jlViGcbUSvj1Mw%3D%3D"
+		(property "Distributor Link 1" "https://www.mouser.fr/ProductDetail/STMicroelectronics/USBLC6-2P6?qs=6ARB0lp6jlViGcbUSvj1Mw%3D%3D"
+			(at 256.54 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C15999"
 			(at 256.54 86.36 0)
 			(effects
 				(font
@@ -13708,7 +14176,16 @@
 				(hide yes)
 			)
 		)
-		(property "Distributor Link" "https://www.mouser.fr/ProductDetail/Microchip-Technology/MCP1703AT-3302E-CBVAO?qs=byeeYqUIh0POe9NmhCaq4w%3D%3D"
+		(property "Distributor Link 1" "https://www.mouser.fr/ProductDetail/Microchip-Technology/MCP1703AT-3302E-CBVAO?qs=byeeYqUIh0POe9NmhCaq4w%3D%3D"
+			(at 95.25 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C5236965"
 			(at 95.25 40.64 0)
 			(effects
 				(font
